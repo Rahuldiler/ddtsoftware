@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/ddtsoftware/static/css/main.1078d4fd.css",
-    "main.js": "/ddtsoftware/static/js/main.76e905fb.js",
+    "main.js": "/ddtsoftware/static/js/main.b90b202a.js",
+    "static/media/sanjay.jpg": "/ddtsoftware/static/media/sanjay.e884462e2052e41ae4ca.jpg",
     "static/media/banner2.jpg": "/ddtsoftware/static/media/banner2.0a94da03bf341b4591d8.jpg",
     "static/media/banner1.jpg": "/ddtsoftware/static/media/banner1.47d6c4c10fce47287d1b.jpg",
     "static/media/banner3.jpg": "/ddtsoftware/static/media/banner3.352be7c39aef743df571.jpg",
@@ -10,7 +11,6 @@
     "static/media/Poppins-Medium.ttf": "/ddtsoftware/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
     "static/media/Poppins-SemiBold.ttf": "/ddtsoftware/static/media/Poppins-SemiBold.090bd619384bb8d4c289.ttf",
     "static/media/Poppins-Bold.ttf": "/ddtsoftware/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
-    "static/media/teammem2.jpeg": "/ddtsoftware/static/media/teammem2.310378066f498df3e9f8.jpeg",
     "static/media/teammem1.jpg": "/ddtsoftware/static/media/teammem1.04ccec36f4405126c8b0.jpg",
     "static/media/counterbg.jpg": "/ddtsoftware/static/media/counterbg.c294043749e3479166d6.jpg",
     "static/media/breadcumbbg.jpg": "/ddtsoftware/static/media/breadcumbbg.821ce0568f94275af9a3.jpg",
@@ -21,23 +21,22 @@
     "static/media/Exo-SemiBold.ttf": "/ddtsoftware/static/media/Exo-SemiBold.a34c9d423c5216d753da.ttf",
     "static/media/Exo-Regular.ttf": "/ddtsoftware/static/media/Exo-Regular.39f7ca5f0abe68cd95cc.ttf",
     "static/media/Exo-Bold.ttf": "/ddtsoftware/static/media/Exo-Bold.5455d554f74f84363e85.ttf",
+    "static/media/mern.jpg": "/ddtsoftware/static/media/mern.73d593ba148ad2758e6a.jpg",
+    "static/media/rahulgautam.jpg": "/ddtsoftware/static/media/rahulgautam.4a7ed43c7214b2032f6d.jpg",
     "static/media/servicedet1.jpg": "/ddtsoftware/static/media/servicedet1.9547bc8341396b79c4db.jpg",
+    "static/media/anilPhp.jpg": "/ddtsoftware/static/media/anilPhp.9b9735eed4c883e54d3d.jpg",
     "static/media/itsolution2.jpg": "/ddtsoftware/static/media/itsolution2.cba31b8324d0171a10e3.jpg",
     "static/media/faqimg.jpg": "/ddtsoftware/static/media/faqimg.ed7345dcba2ccb59771f.jpg",
     "static/media/servicedet4.jpg": "/ddtsoftware/static/media/servicedet4.24ab5868cc5aa31b41bf.jpg",
     "static/media/progress.jpg": "/ddtsoftware/static/media/progress.72c34e5dede3e5186b08.jpg",
-    "static/media/teamdet3.jpg": "/ddtsoftware/static/media/teamdet3.57282d19abe030078233.jpg",
+    "static/media/NishaWordpress.jpg": "/ddtsoftware/static/media/NishaWordpress.f0e50e406cc2e0d46d56.jpg",
     "static/media/blog1.jpg": "/ddtsoftware/static/media/blog1.5efade05751b7b96cb9f.jpg",
     "static/media/teamdet5.jpg": "/ddtsoftware/static/media/teamdet5.72e90ff438a68fb6e0bb.jpg",
     "static/media/itsolution.jpg": "/ddtsoftware/static/media/itsolution.8aeb29b38fbb3ac3f238.jpg",
     "static/media/faqImg2.jpg": "/ddtsoftware/static/media/faqImg2.bb95218880dbfaf0e5f7.jpg",
-    "static/media/temdet1.jpg": "/ddtsoftware/static/media/temdet1.92ccafb4ae01e4803714.jpg",
-    "static/media/teamdet6.jpg": "/ddtsoftware/static/media/teamdet6.11e7532c622060597311.jpg",
-    "static/media/teamdet2.jpg": "/ddtsoftware/static/media/teamdet2.058420adaea52cc7b4fd.jpg",
     "static/media/blog3.jpg": "/ddtsoftware/static/media/blog3.c82278514538c33bd41d.jpg",
     "static/media/servicebg.png": "/ddtsoftware/static/media/servicebg.f0242fe8cd1b9da4b267.png",
     "static/media/blog2.jpg": "/ddtsoftware/static/media/blog2.19c1a5d803077131b396.jpg",
-    "static/media/teamdet4.jpg": "/ddtsoftware/static/media/teamdet4.11fed4a488eeeb421a75.jpg",
     "static/media/bestItSolution.jpg": "/ddtsoftware/static/media/bestItSolution.a5de50422aca4214370a.jpg",
     "static/media/about-bg.jpg": "/ddtsoftware/static/media/about-bg.7c1ac8e6956c50dab320.jpg",
     "static/media/cardboxbg.jpg": "/ddtsoftware/static/media/cardboxbg.ea6bf62bb3145cefcb1f.jpg",
@@ -59,10 +58,10 @@
     "static/media/count1.svg": "/ddtsoftware/static/media/count1.7ca3494a5f4143f33e9bb7e37e8addcd.svg",
     "index.html": "/ddtsoftware/index.html",
     "main.1078d4fd.css.map": "/ddtsoftware/static/css/main.1078d4fd.css.map",
-    "main.76e905fb.js.map": "/ddtsoftware/static/js/main.76e905fb.js.map"
+    "main.b90b202a.js.map": "/ddtsoftware/static/js/main.b90b202a.js.map"
   },
   "entrypoints": [
     "static/css/main.1078d4fd.css",
-    "static/js/main.76e905fb.js"
+    "static/js/main.b90b202a.js"
   ]
 }
