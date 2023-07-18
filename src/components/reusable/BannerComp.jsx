@@ -22,12 +22,13 @@ const BannerComp = () =>
                             <div className='banner_head'>
                                 <div>
                                     <p>
-                                        We have top IT expert
+                                        We have top Virtual Assistance 
                                     </p>
                                     <h2>
-                                        TOP PROFESSINAL IT
+                                        We have created an Application
+
                                         <br />
-                                        SERVICE & SOLUTION 2022
+                                        same as applyboard
                                     </h2>
                                     <div className='read_more_links'>
                                         <Link className='blue_btn' to="/aboutus">
@@ -58,7 +59,7 @@ const BannerComp = () =>
                                     <h2>
                                         TEAM OF LEGENDS &
                                         <br />
-                                        PROFESSINAL ENGINEERS
+                                        DevOps Services Support 
                                     </h2>
                                     <div className='read_more_links'>
                                         <Link className='blue_btn' to="/aboutus">
@@ -83,12 +84,12 @@ const BannerComp = () =>
                             <div className='banner_head'>
                                 <div>
                                     <p>
-                                        PROVIDE FREE CONSULTATION
+                                       We have Top IT expert
                                     </p>
                                     <h2>
-                                        EXPERT IT SOLUTION
+                                        Software Development and Support 
                                         <br />
-                                        SUPPORT & MANAGEMNT
+                                        on PHP Laravel/CI, React JS, HTML5 and MySQL
                                     </h2>
                                     <div className='read_more_links'>
                                         <Link className='blue_btn' to="/aboutus">

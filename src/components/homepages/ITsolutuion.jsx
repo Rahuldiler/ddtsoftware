@@ -6,7 +6,7 @@ import { BiCopy, BiPhoneCall, BiRightArrowAlt } from 'react-icons/bi';
 import { Link } from 'react-router-dom';
 const ITsolutuion = () =>
 {
-    
+
     return (
         <section className='it_solution'>
             <div className='container'>
@@ -23,18 +23,17 @@ const ITsolutuion = () =>
                         <div className='it_text_wrap'>
                             <div className='it_heading'>
                                 <p className='sub_heading_title'>
-                                    <BiCopy />  GET BEST IT SOLUTION 2022
+                                    <BiCopy />  GET BEST IT SOLUTION
                                 </p>
                                 <h2 className='main_heading_title'>
-                                    TRUST OUR BEST IT SOLUTION FOR YOUR BUSINESS
+                                    Benefits Of DevOps Consulting Services
                                 </h2>
                             </div>
                             <div className='it_body'>
                                 <p className='detail_text'>
-                                    Compellingly mesh cross-platform portals through functional human capital
-                                    world-class architectures for orthogonal initiatives. Assertively benchmark
-                                    visionary quality vectors after covalent e-tailers. Intrinsicly enhance 24/7
-                                    users and supply process
+                                    Outsourcing your DevOps needs to a DevOps Services company is a cheaper
+                                    alternative to hiring a full-time DevOps engineer and allows your team
+                                    to focus on your projects while our experienced professionals get to work.
                                 </p>
                                 <div className='it_card_wrap'>
                                     <span>

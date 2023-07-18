@@ -16,10 +16,10 @@ const Progress = () =>
                     <div className='col-lg-6'>
                         <div className='progress_text'>
                             <p className='sub_heading_title'>
-                                <BiCopy />  THE GREAT COMPANY SKILL
+                                <BiCopy />  DDT SOFTWARE ACHIEVMENT 
                             </p>
                             <h2 className='main_heading_title'>
-                                CONNECTING PEOPLE AND BUILD TECHNOLOGY
+                                PROJECT MANAGEMENT AND BUILD TECHNOLOGY
                             </h2>
                             <p className='detail_text' style={{ textAlign: 'justify' }}>
                                 Energistically evisculate an expanded array of meta-services after cross-media strategic theme areas.
@@ -29,7 +29,7 @@ const Progress = () =>
                             <div className='bars'>
                                 <div className='bar_label'>
                                     <h2>
-                                        BUSINESS SECURITY
+                                        DevOps Services
                                     </h2>
                                     <h2>
                                         65%
@@ -41,7 +41,7 @@ const Progress = () =>
                             <div className='bars'>
                                 <div className='bar_label'>
                                     <h2>
-                                        CAREER DEVELOPMENT
+                                        AWS Services
                                     </h2>
                                     <h2>
                                         90%
@@ -53,7 +53,8 @@ const Progress = () =>
                             <div className='bars'>
                                 <div className='bar_label'>
                                     <h2>
-                                        BUSINESS INOVATION
+                                        Website Development
+
                                     </h2>
                                     <h2>
                                         85%

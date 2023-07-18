@@ -36,7 +36,7 @@ const Header = () =>
             </span>
             <div>
               <p>Mail Us for support</p>
-              <Link>toponsearch2015@gmail.com</Link>
+              <Link>info@ddtsoftwareandecommerce.com </Link>
             </div>
           </div>
           <div className='contact_dt_card'>

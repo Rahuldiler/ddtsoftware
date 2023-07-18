@@ -30,10 +30,10 @@ const WorkProgress = () =>
                         </div>
                         <div className='work_p_text'>
                             <h2 className='service_title '>
-                                Medicine Help
+                                CONSULTATION
                             </h2>
                             <p className='paragraph text-justify'>
-                                Extensible for web iterate process before meta services impact with olisticly enable client.
+                                We schedule a phone call to discuss your needs, issues, goals, strategies, and resource availability.
                             </p>
                         </div>
                         <div className='work_p_arrow'>
@@ -52,10 +52,12 @@ const WorkProgress = () =>
                         </div>
                         <div className='work_p_text'>
                             <h2 className='service_title '>
-                                We Build and Create
+                                Discovery
                             </h2>
                             <p className='paragraph text-justify'>
-                                Extensible for web iterate process before meta services impact with olisticly enable client.
+                                OpSourced is given access to view your environments, or (after signing a mutual NDA)
+                                we schedule a second call with your engineering teams to walk through the current
+                                state of your infrastructure, DevOps practices, and strategies.
                             </p>
                         </div>
                         <div className='work_p_arrow_up work_p_arrow '>
@@ -74,10 +76,10 @@ const WorkProgress = () =>
                         </div>
                         <div className='work_p_text'>
                             <h2 className='service_title '>
-                                Water Delivery
+                                SCOPE OF WORK
                             </h2>
                             <p className='paragraph text-justify'>
-                                Extensible for web iterate process before meta services impact with olisticly enable client.
+                                We create a scope of work with details about work to be done, including time estimates, responsibilities and requirements for both teams, deliverables, and expectations for start and completion dates.
                             </p>
                         </div>
                         <div className='work_p_arrow'>
@@ -96,10 +98,75 @@ const WorkProgress = () =>
                         </div>
                         <div className='work_p_text'>
                             <h2 className='service_title '>
-                                We Care About
+                                PLAN OF ACTION
                             </h2>
                             <p className='paragraph text-justify'>
-                                Extensible for web iterate process before meta services impact with olisticly enable client.
+                                Once the Scope of Work is signed and the deposit is paid, the plan of action goes into effect, and work is scheduled.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div className='row mt-4'>
+                    <div className='col-lg-3 col-sm-6 work_card'>
+                        <div className='work_p_content'>
+                            <div className='work_p_img'>
+                                <img src={progress1} alt={progress1} />
+                                <p>
+                                    05
+                                </p>
+                            </div>
+
+                        </div>
+                        <div className='work_p_text'>
+                            <h2 className='service_title '>
+                                Communication
+                            </h2>
+                            <p className='paragraph text-justify'>
+                                A shared slack channel is created so our engineers can coordinate with your team in real time as they begin work.
+                            </p>
+                        </div>
+                        <div className='work_p_arrow'>
+                            <img src={arrowImg} alt={arrowImg} />
+                        </div>
+                    </div>
+                    <div className='col-lg-3 col-sm-6 work_card2'>
+                        <div className='work_p_content'>
+                            <div className='work_p_img'>
+                                <img src={progress2} alt={progress2} />
+                                <p>
+                                    06
+                                </p>
+                            </div>
+
+                        </div>
+                        <div className='work_p_text'>
+                            <h2 className='service_title '>
+                                Final Handoff
+                            </h2>
+                            <p className='paragraph text-justify'>
+                                The itemized deliverables are presented and environments are provisioned and turned over to the customer for testing and requests for revision.
+                            </p>
+                        </div>
+                        <div className='work_p_arrow_up work_p_arrow '>
+                            <img src={arrowImgUp} alt={arrowImgUp} />
+                        </div>
+                    </div>
+                    <div className='col-lg-3 col-sm-6 work_card'>
+                        <div className='work_p_content'>
+                            <div className='work_p_img'>
+                                <img src={progress3} alt={progress3} />
+                                <p>
+                                    07
+                                </p>
+                            </div>
+
+                        </div>
+                        <div className='work_p_text'>
+                            <h2 className='service_title '>
+                                Next Step
+                            </h2>
+                            <p className='paragraph text-justify'>
+                                Customer takes ownership or rolls over to Managed DevOps for ongoing support and Operational Responsibilities are assumed by the OpSourced team.
                             </p>
                         </div>
                     </div>
