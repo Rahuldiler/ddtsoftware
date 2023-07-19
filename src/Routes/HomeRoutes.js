@@ -11,7 +11,7 @@ const HomeRoutes = () =>
 {
   return (
     <Routes>
-      <Route exact path="/ddtsoftware" element={<Home />} />
+      <Route exact path="/" element={<Home />} />
       <Route exact path="/aboutus" element={<AboutMore />} />
       <Route exact path="/team" element={<Team />} />
       <Route exact path="/team-detail/:id" element={<TeamCard />} />
