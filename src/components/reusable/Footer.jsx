@@ -19,7 +19,7 @@ const Footer = () =>
                       <BiMap />
                     </div>
                   </div>
-              
+
                   <div className='f_c_text'>
                     <h2 className='sub_heading_title2'>
                       OFFICE ADDRESS
@@ -43,9 +43,9 @@ const Footer = () =>
                       Working Hours
                     </h2>
                     <p>
-                      Weekdays 8am – 22pm
+                      Weekdays 10AM – 7PM
                       <br />
-                      Weekend 10am – 12pm
+                      Weekdays 10AM – 7PM
                     </p>
                   </div>
                 </div>
@@ -60,10 +60,10 @@ const Footer = () =>
                       Contact Us
                     </h2>
                     <Link to="rahuldhana.com@gmail.com">
-                      businesssolution2021@gmail.com
+                      info@ddtsoftwareandecommerce.com
                     </Link>
                     <p>
-                      +91 8607013464
+                      +91 9818113799
                     </p>
                   </div>
                 </div>

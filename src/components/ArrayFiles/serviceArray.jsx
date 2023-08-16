@@ -7,7 +7,7 @@ const serviceArray = [
     {
         id: 1,
         icon: cloud,
-        title: "C⦁	DevOps Services ",
+        title: "DevOps Services ",
         detail: "Welcome to our DevOps Services! We offer comprehensive DevOps solutions to help businesses harness......",
         incldet: "Here's what our service includes",
         head: "DevOps Services",

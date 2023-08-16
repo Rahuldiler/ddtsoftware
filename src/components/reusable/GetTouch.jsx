@@ -29,7 +29,7 @@ const GetTouch = () =>
                                                 Phone Number & Email
                                             </h3>
                                             <p className='paragraph mb-0'>+(91)9818113799</p>
-                                            <p className='paragraph mb-0'>toponsearch2015@gmail.com</p>
+                                            <p className='paragraph mb-0'>info@ddtsoftwareandecommerce.com</p>
                                         </span>
                                     </li>
                                     <li>
@@ -53,10 +53,10 @@ const GetTouch = () =>
                                                 Official Work Time
                                             </h3>
                                             <p className='paragraph mb-0'>
-                                                10:00am – 6:00pm ( Mon – Fri )
+                                                10:00am – 07:00pm ( Mon – Sat )
                                             </p>
                                             <p className='paragraph mb-0'>
-                                                Sat, Sun & Holiday Closed
+                                                Sun & Holiday Closed
                                             </p>
                                         </span>
                                     </li>

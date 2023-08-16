@@ -3,8 +3,8 @@ import Layout from '../reusable/Layout';
 import Breadcrumb from '../reusable/Breadcrumb';
 import { useParams } from 'react-router-dom';
 import TeamDetailsArray from '../ArrayFiles/teamDetailsArray';
-import { BiUser, BiRightArrowAlt, BiPhone, BiEnvelope } from "react-icons/bi";
-import { FaLinkedinIn } from "react-icons/fa";
+import { BiUser, BiRightArrowAlt } from "react-icons/bi";
+// import { FaLinkedinIn } from "react-icons/fa";
 import ContactForm from '../reusable/ContactForm';
 const TeamCard = () =>
 {
@@ -55,7 +55,7 @@ const TeamCard = () =>
                                                                     </p>
                                                                 </div>
                                                             </li>
-                                                            <li>
+                                                            {/* <li>
                                                                 <span>
                                                                     <BiEnvelope />
                                                                 </span>
@@ -67,9 +67,9 @@ const TeamCard = () =>
                                                                         {index.email}
                                                                     </p>
                                                                 </div>
-                                                            </li>
+                                                            </li> */}
                                                         </ul>
-                                                        <ul>
+                                                        {/* <ul>
                                                             <li>
                                                                 <span>
                                                                     <BiPhone />
@@ -96,7 +96,7 @@ const TeamCard = () =>
                                                                     </p>
                                                                 </div>
                                                             </li>
-                                                        </ul>
+                                                        </ul> */}
                                                     </div>
                                                     <a className="blue_btn" href="/contact">
                                                         Get In Touch <BiRightArrowAlt />

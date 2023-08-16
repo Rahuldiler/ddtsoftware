@@ -58,7 +58,6 @@ const TeamMember = () =>
                                                                     <BsTwitter />
                                                                 </p>
                                                                 <p className='mb-0' to="/">
-
                                                                     <BsLinkedin />
                                                                 </p>
                                                             </div>
