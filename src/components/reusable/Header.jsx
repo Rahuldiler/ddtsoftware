@@ -59,7 +59,7 @@ const Header = () =>
               <img src={logoImg} alt={logoImg} />
             </div>
             <li>
-              <NavLink className="nav_item" to="/myportfolio">Home</NavLink>
+              <NavLink className="nav_item" to="/">Home</NavLink>
             </li>
             <li>
               <NavLink className="nav_item" to="/team">Team</NavLink>
