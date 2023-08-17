@@ -37,7 +37,7 @@ const planArray = [
     },
     {
         id: 2,
-        planName: "MARKETPLACE (MULTI VENDOR) PLAN",
+        planName: "MARKETPLACE Plan",
         price: "₹34,999/One Time",
         details: [
             {

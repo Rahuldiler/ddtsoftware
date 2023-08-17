@@ -9,10 +9,12 @@ const Plan = () =>
     <Layout>
       <Breadcrumb pageHeader="Plan" />
       <div className='container'>
-     
-        <div className='plan_wrapper'>
-          <PlanCard />
+        <div className='plan_section'>
+          <div className='plan_wrapper'>
+            <PlanCard />
+          </div>
         </div>
+      
       </div>
   
     </Layout>
