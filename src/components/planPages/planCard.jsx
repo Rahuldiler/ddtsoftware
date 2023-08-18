@@ -1,7 +1,7 @@
 import React from 'react';
 import planArray from '../ArrayFiles/planArray';
 import { BiChevronsRight } from "react-icons/bi";
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 const planCard = () =>
 {
     return (
@@ -23,7 +23,7 @@ const planCard = () =>
                                     </li>
                                 ))}
                             </ul>
-                            <Link className='smoke_btn' to="/plan/details">Read More</Link>
+                            {/* <Link className='smoke_btn' to="/plan/details">Read More</Link> */}
                         </div>
                     );
                 })
