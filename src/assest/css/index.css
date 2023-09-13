@@ -96,6 +96,9 @@ a {
     overflow: hidden;
     /* height: 50px; */
 }
+.blue_btn.active{
+    border: 1px solid var(--bg-color);
+}
 .blue_btn svg,
 .light_btn svg,
 .contact_btn svg,

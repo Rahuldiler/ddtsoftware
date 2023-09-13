@@ -6,6 +6,7 @@ const ServiceCard = () =>
 {
     return (
         <section className="service_wrapper">
+
             <p className='sub_heading_title text-center'>
                 OUr latest services
             </p>
@@ -39,6 +40,7 @@ const ServiceCard = () =>
                     }
                 </div>
             </div>
+
         </section>
     )
 }
